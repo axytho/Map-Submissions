@@ -1,4 +1,4 @@
-Map-Sumissions
+Map-Submissions
 ==============
 
 Create issues here for your map requests
